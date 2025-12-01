@@ -1,4 +1,4 @@
-## THIS IS MY FIRST MY REPOSITORY IN GIT HUBB 
+## THIS IS MY FIRST REPOSITORY IN GIT HUBB 
 
 <!--
 **Manish98078/Manish98078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
