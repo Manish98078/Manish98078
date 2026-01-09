@@ -1,4 +1,4 @@
-## THIS IS MY FIRST REPOSITORY IN GIT HUBB 
+##  GIT HUBB 
 
 <!--
 **Manish98078/Manish98078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Author-manish yadav(kumar)
+Author-manish yadav
 
